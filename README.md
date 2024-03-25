@@ -15,3 +15,11 @@
 - DRY - Don't Repeat Yourself --> We should follow dry principle when we write code
 - Make pick function using TypeScript
 - Reuseable searching, filtering, sorting and pagination
+
+### Covered topics in Module 27
+
+- We should not update forign key, because it use for make relation with another table
+- Incorporating soft delete functionality
+- sendResponse utility function
+- globalErrorHandler utility function
+- Implement NOT FOUND route
