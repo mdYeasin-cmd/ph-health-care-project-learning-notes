@@ -23,3 +23,7 @@
 - sendResponse utility function
 - globalErrorHandler utility function
 - Implement NOT FOUND route
+
+### Covered topics in Module 28
+
+- A function which take a function as parameter and return a function as output, we call that higher order function.
