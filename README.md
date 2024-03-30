@@ -27,3 +27,9 @@
 ### Covered topics in Module 28
 
 - A function which take a function as parameter and return a function as output, we call that higher order function.
+
+### Covered topics in Module 29
+
+- Implement auth middleware for role based access
+- Change password and reset password funtionality
+- Email sending using gmail client and nodemailer
