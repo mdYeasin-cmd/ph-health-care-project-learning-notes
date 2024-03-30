@@ -33,3 +33,7 @@
 - Implement auth middleware for role based access
 - Change password and reset password funtionality
 - Email sending using gmail client and nodemailer
+
+### Covered topics in Module 30
+
+- Cloudinary image upload process and util function for image upload
